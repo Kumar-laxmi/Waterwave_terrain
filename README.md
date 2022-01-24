@@ -7,5 +7,9 @@ In this water waves are generated using Perlin Noise
 
 Perlin noise is function for generating coherent noise over a space. Coherent noise means that for any two points in the space, the value of the noise function changes smoothly as you move from one point to the other -- that is, there are no discontinuities.
 
+## Technology Used:
+### Frameworks, Platforms and Libraries:
+- ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+
 
 
